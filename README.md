@@ -1,4 +1,4 @@
-# CicProject
+# angular-electron-project
 
 A sample project using angular and electron.
 # Getting started
